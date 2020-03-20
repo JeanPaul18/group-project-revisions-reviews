@@ -35,6 +35,18 @@ input {
   cursor: pointer;
 }
 
+.add {
+  padding: 0.35em 0.8em;
+  border: none;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #456e5b;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /* Site title and top navigation */
 .site-header {
   display: flex;
