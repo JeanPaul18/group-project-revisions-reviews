@@ -36,7 +36,9 @@ input {
   border-width: 5px;
   border-color: #fff;
 }
-
+.review--negative {
+  border-left: solid 4px #d1542b;
+}
 .add {
   padding: 0.35em 0.8em;
   border: none;
