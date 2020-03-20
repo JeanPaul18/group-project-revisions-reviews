@@ -87,7 +87,10 @@ input {
 .review__review {
   margin: 0;
 }
-
+.review--positive {
+  border-radius: 2px;
+  border-left: 2px solid #f34c0a;  
+}
 .review__date {
   font-size: 12px;
   color: rgba(0, 0, 0, 0.6);
